@@ -33,7 +33,7 @@ setuptools.setup(
         "License :: OSI Approved :: BSD License",
         "Operating System :: OS Independent",
         "Intended Audience :: Science/Research",
-        "Development Status :: 3 - Alpha",
+        "Development Status :: 1 - Planning",
         "Topic :: Scientific/Engineering",
     ],
     install_requires=[
