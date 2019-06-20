@@ -25,7 +25,7 @@ with open(os.path.join(os.path.dirname(__file__), '..', 'VERSION')) as \
         version_file:
     release_ = version_file.read().strip()
 
-project = 'qcpy'
+project = 'qcPy'
 copyright = '2019, Till Biskup'
 author = 'Till Biskup'
 
@@ -119,7 +119,7 @@ html_logo = './qcpy-logo.png'
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-#html_favicon = None
+html_favicon = 'favicon.ico'
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
