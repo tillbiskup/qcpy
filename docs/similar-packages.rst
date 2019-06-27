@@ -8,4 +8,5 @@ To list just those the author came along during a quick search, not meant to be 
   * `chemtools <https://chemtools.readthedocs.io/en/latest/>`_
   * `PySCF <https://sunqm.github.io/pyscf/index.html>`_
   * `PyQuante <http://pyquante.sourceforge.net/>`_
+  * `qcpy <https://github.com/peterspackman/qcpy>`_
 
