@@ -41,6 +41,7 @@ The :doc:`API documentation <api/index>` is the definite source of information f
    audience
    concepts
    developers
+   similar-packages
    api/index
 
 
